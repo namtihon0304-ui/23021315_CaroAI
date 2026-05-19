@@ -1,0 +1,13 @@
+# ====================================================================
+# ĐỒ ÁN: TRÒ CHƠI CỜ CARO AI (CARO GAME WITH AI)
+# Mã học phần: Đề số 1 - Nhóm SV: 23021315
+# ====================================================================
+
+# --- THƯ VIỆN ĐỒ HỌA CHÍNH (BẮT BUỘC) ---
+# Dùng để vẽ bàn cờ 15x15, xử lý sự kiện click chuột
+pygame>=2.0.0
+
+# --- CÁC THƯ VIỆN ĐI KÈM HỆ THỐNG PYTHON (BUILT-IN) ---
+# Không cần cài đặt vì đã đi liền với Python 3.x:
+# - sys (Quản lý đóng/ngắt hệ thống hệ điều hành)
+# - time (Đo đạc chính xác thời gian chạy của thuật toán Minimax/Alpha-Beta)
